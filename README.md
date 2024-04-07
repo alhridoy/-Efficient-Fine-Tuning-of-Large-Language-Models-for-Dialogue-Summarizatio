@@ -1,6 +1,6 @@
 # -Efficient-Fine-Tuning-of-Large-Language-Models-for-Dialogue-Summarization
 
-This project is from Coursera's couse "Generative AI with Large Language Model" 
+
 
 -In this project, I utilized PyTorch and the HuggingFace transformers library to build a fine-tuning pipeline for Large Language Models (LLMs). The target model used for this process was Google's FLAN-T5. The fine-tuning process was explored through two distinct methods: full fine-tuning and Parameter Efficient Fine-Tuning (PEFT).
 
